@@ -1,0 +1,36 @@
+{
+  "name": "@yfwz100/vite-plugin-vue2-i18n",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "author": "Zhi <yfwz100@yeah.net>",
+  "license": "MIT",
+  "keywords": [
+    "vite",
+    "vue2",
+    "vue-i18n"
+  ],
+  "scripts": {
+    "build": "rimraf dist && tsc -p . --skipLibCheck",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
+    "prepublishOnly": "run-s build changelog"
+  },
+  "peerDependencies": {
+    "vite": "^2.1.5"
+  },
+  "devDependencies": {
+    "conventional-changelog-cli": "^2.1.1",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.2.1",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.2.4",
+    "vite": "^2.1.5"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all",
+    "printWidth": 80
+  }
+}
