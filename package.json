@@ -1,6 +1,6 @@
 {
   "name": "@yfwz100/vite-plugin-vue2-i18n",
-  "version": "1.0.0",
+  "version": "1.0.0-1",
   "main": "dist/index.js",
   "files": [
     "dist"
