@@ -6,6 +6,10 @@
     "dist"
   ],
   "author": "Zhi <yfwz100@yeah.net>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yfwz100/vite-plugin-vue2-i18n.git"
+  },
   "license": "MIT",
   "keywords": [
     "vite",
