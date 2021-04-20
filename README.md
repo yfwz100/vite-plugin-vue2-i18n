@@ -18,7 +18,7 @@ npm:
 ```sh
 $ npm i --save-dev @rollup/plugin-json
 $ npm i --save-dev @rollup/plugin-yaml # if you use locale messages with YAML format
-$ npm i --save-dev @intlify/rollup-plugin-vue-i18n
+$ npm i --save-dev @yfwz100/vite-plugin-vue2-i18n
 ```
 
 ## Usages
