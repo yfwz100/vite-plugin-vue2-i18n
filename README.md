@@ -6,10 +6,8 @@ The missing vue 2 SFC version of vite plugin for vue-i18n, inspired by [the roll
 
 You need to install the follwoing:
 
-- [@yfwz100/vite-plugin-vue2][]@1.4.3-3 or later
+- [vite-plugin-vue2][]@1.4.4 or later
 - vite 2
-
-Note: as of 2021.4, the original [vite-plugin-vue2][] plugin doesn't parse the custom blocks correctly, so you need to use a fork like [@yfwz100/vite-plugin-vue2][].
 
 ## Installation
 
@@ -70,4 +68,3 @@ See more in the `playground` folder.
 See [CHANGELOG.md](https://github.com/yfwz100/vite-plugin-vue2-i18n/blob/master/CHANGELOG.md).
 
 [vite-plugin-vue2]: https://www.npmjs.com/package/vite-plugin-vue2 'the original vite-plugin-vue2'
-[@yfwz100/vite-plugin-vue2]: https://www.npmjs.com/package/@yfwz100/vite-plugin-vue2 'the fork of vite-plugin-vue2'
