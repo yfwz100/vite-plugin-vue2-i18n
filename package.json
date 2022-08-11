@@ -22,7 +22,7 @@
     "prepublishOnly": "run-s build changelog"
   },
   "peerDependencies": {
-    "vite": "^2.1.5 || ^3.0.5",
+    "vite": "^2.1.5 || ^3.0.5"
   },
   "devDependencies": {
     "conventional-changelog-cli": "^2.1.1",
