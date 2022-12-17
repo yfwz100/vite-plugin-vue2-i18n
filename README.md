@@ -7,7 +7,7 @@ The missing vue 2 SFC version of vite plugin for vue-i18n, inspired by [the roll
 You need to install the follwoing:
 
 - [vite-plugin-vue2][]@1.4.4 or later
-- vite 2
+- vite 2 or later
 
 ## Installation
 
